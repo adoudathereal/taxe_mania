@@ -182,15 +182,7 @@ int main() {
     std::cout << "========================================\n\n";
     
 
-    // STEP 5: Future Features (Placeholders)
-
-    std::cout << "FEATURES TO BE IMPLEMENTED:\n";
-    std::cout << "----------------------------\n";
-    std::cout << "1. Standard/Itemized Deduction Calculator\n";
-    std::cout << "2. 2024 Senior Bonus Deduction Calculator\n";
-    std::cout << "3. Tax Bracket Calculator\n";
-    std::cout << "4. Tax Credit Calculator\n";
-    std::cout << "5. Final Tax Liability/Refund Calculator\n\n";
+    
     
     std::cout << "Thank you for using the 2024 Tax Calculator!\n";
     

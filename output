@@ -1,0 +1,65 @@
+========================================
+    2024 U.S. FEDERAL TAX CALCULATOR
+========================================
+
+PERSONAL INFORMATION SECTION
+----------------------------
+
+--- Select Your Filing Status ---
+1. Single
+2. Married Filing Jointly
+3. Head of Household
+4. Married Filing Separately
+5. Qualifying Widow(er)
+Enter your choice (1-5): 1
+Are you 65 or older? (1 for Yes, 0 for No): 1
+Are you legally blind? (1 for Yes, 0 for No): 0
+
+✓ Taxpayer profile created: Single (65+ years)
+
+FINANCIAL INFORMATION SECTION
+------------------------------
+
+--- Enter Your Income Details ---
+Wages, salaries, tips: $35000
+Taxable interest income: $1500
+Dividend income: $800
+Unemployment compensation: $0
+Retirement distributions: $0
+Other taxable income: $0
+Business income (net profit/loss): $0
+✓ Total Income: $37300
+
+--- Enter Your Adjustments (Above-the-Line Deductions) ---
+Traditional IRA contributions: $2000
+Student loan interest paid: $450
+Educator expenses: $0
+Health Savings Account (HSA) contributions: $0
+Self-employment tax (½ of total): $0
+SEP IRA contributions: $0
+SIMPLE IRA contributions: $0
+Qualified retirement plan contributions: $0
+✓ Total Adjustments: $2450
+
+CALCULATION RESULTS
+--------------------
+Adjusted Gross Income (AGI): $34850
+Modified AGI (MAGI): $35300
+Standard Deduction: $16550
+Taxable Income: $18300
+Federal Income Tax: $1964
+
+========================================
+          2024 TAX CALCULATION SUMMARY
+========================================
+Filing Status: Single
+Total Income: $37300
+Total Adjustments: $2450
+Adjusted Gross Income (AGI): $34850
+Modified AGI (MAGI): $35300
+Standard Deduction: $16550
+Taxable Income: $18300
+Federal Income Tax: $1964
+========================================
+
+Thank you for using the 2024 Tax Calculator!
